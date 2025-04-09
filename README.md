@@ -16,10 +16,6 @@ Installation
 
 Download and install Processing.
 
-Clone this repository:
-
-git clone https://github.com/yourusername/yourrepository.git
-
 Open the .pde file in Processing.
 
 Run the project.
