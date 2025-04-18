@@ -1,4 +1,4 @@
-Who can be a a millionaire (environmental version)
+Nature Quiz Game
 
 Description
 
